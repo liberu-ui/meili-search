@@ -1,25 +1,25 @@
 {
-    "name": "@enso-ui/meilisearch",
+    "name": "@enso-ui/meili-search",
     "version": "1.0.0",
     "description": "MeiliSearch package",
-    "main": "src/bulma/pages/meilisearch/Index.vue",
+    "main": "src/bulma/pages/meili-search/Index.vue",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/enso-ui/meilisearch.git"
+        "url": "git+https://github.com/enso-ui/meili-search.git"
     },
     "keywords": [
-        "meilisearch",
+        "meili-search",
         "vue"
     ],
     "author": "Adrian Ocneanu <aocneanu@gmail.com>",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/enso-ui/meilisearch/issues"
+        "url": "https://github.com/enso-ui/meili-search/issues"
     },
-    "homepage": "https://github.com/enso-ui/meilisearch#readme",
+    "homepage": "https://github.com/enso-ui/meili-search#readme",
     "dependencies": {
         "@enso-ui/loader": "^2.0",
         "@enso-ui/mixins": "^2.0",
