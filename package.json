@@ -1,5 +1,5 @@
 {
-    "name": "@enso-ui/meili-search",
+    "name": "@cgdsoftware/meili-search",
     "version": "3.0.0",
     "description": "MeiliSearch package",
     "main": "src/bulma/pages/meili-search/Index.vue",
@@ -21,8 +21,8 @@
     },
     "homepage": "https://github.com/enso-ui/meili-search#readme",
     "dependencies": {
-        "@enso-ui/forms": "^3.0",
-        "@enso-ui/ui": "^6.0",
+        "@cgdsoftware/forms": "^3.0",
+        "@cgdsoftware/ui": "^6.0",
         "@fortawesome/fontawesome-svg-core": "^1.2.2",
         "@fortawesome/free-solid-svg-icons": "^5.11.2",
         "vue": "^3.0"
