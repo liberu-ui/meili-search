@@ -1,2 +1,2 @@
-###  enso-ui - meilisearch
+###  liberu-ui - meilisearch
 Coming soon
