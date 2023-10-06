@@ -1,6 +1,6 @@
 {
     "name": "@liberu-ui/meili-search",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "description": "MeiliSearch package",
     "main": "src/bulma/pages/meili-search/Index.vue",
     "scripts": {
